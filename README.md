@@ -39,11 +39,11 @@ Aumento del costo de la implementación, Complejidad en implementación, Necesid
 
 ## 📊 Cuadro comparativo (Opcional)
 
-| ISO        | ORGANISMO REGULA | año creacion   | FUNCION          |ESTRUCTURA|
+| ISO        | ORGANISMO REGULA |  AÑO CREACIÓN  |     FUNCION      |ESTRUCTURA|
 |------------|-----------      -|----------------|------------------|--------  |
-| iso 9001   |                  |                |                  |          |
-| iso 27001  |                  |                |                  |          |
-| iso 45001  |                  |                |                  |          |
+| iso 9001   |       ISO        |                |                  |          |
+| iso 27001  |       ISO        |                |                  |          |
+| iso 45001  |       ISO        |                |                  |          |
 
 ---
 
