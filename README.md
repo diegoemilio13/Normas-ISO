@@ -39,21 +39,28 @@ Aumento del costo de la implementación, Complejidad en implementación, Necesid
 
 ## 📊 Cuadro comparativo (Opcional)
 
-| ISO        | ORGANISMO REGULA |  AÑO CREACIÓN  |     FUNCION      |ESTRUCTURA|
-|------------|-----------      -|----------------|------------------|--------  |
-| iso 9001   |       ISO        |                |                  |          |
-| iso 27001  |       ISO        |                |                  |          |
-| iso 45001  |       ISO        |                |                  |          |
+| ISO        | ORGANISMO REGULA |  AÑO CREACIÓN  |     FUNCION      |   ESTRUCTURA  |
+|------------|------------------|----------------|------------------|---------------|
+| iso 9001   |       ISO        |      2015      |    Sistemas      |Multiplataforma|
+| iso 27001  |       ISO        |      2005      |    Seguridad     |Multiplataforma|
+| iso 45001  |       ISO        |      2018      |Salud y seguridad |      N/A      |
 
 ---
 
 ## 🧠 Conclusión
-*( escribir conclucion.)*
+*( .)*
 
 ---
 
 ## 📚 Referencias
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+>colaboradores de Wikipedia. (2025a, marzo 19). ISO 45001. Wikipedia, la Enciclopedia Libre. https://es.wikipedia.org/wiki/ISO_45001
 
-> Ejemplo:   
-> Siemens, G. (2005). *Connectivism: A learning theory for the digital age*. International Journal of Instructional Technology and Distance Learning, 2(1), 3-10.
+>colaboradores de Wikipedia. (2025b, abril 4). ISO/IEC 27001. Wikipedia, la Enciclopedia Libre. https://es.wikipedia.org/wiki/ISO/IEC_27001
+
+>colaboradores de Wikipedia. (2025c, mayo 26). ISO 9001. Wikipedia, la Enciclopedia Libre. https://es.wikipedia.org/wiki/ISO_9001
+
+>colaboradores de Wikipedia. (2025d, junio 1). Organización Internacional de Normalización. Wikipedia, la Enciclopedia Libre.
+
+>Kouassi, J. K. (2024, 23 febrero). ISO/IEC 27001: strength and weakness. https://www.linkedin.com/pulse/isoiec-27001-strength-weakness-jean-paul-k-kouassi-ougye
+
+>Suscriptor. (2024, 25 noviembre). Las ventajas de implementar la ISO 45001 sobre SST. Software ISO. https://www.isotools.us/2018/10/05/ventajas-implementar-iso-45001/
