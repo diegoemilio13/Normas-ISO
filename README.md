@@ -48,7 +48,7 @@ Aumento del costo de la implementación, Complejidad en implementación, Necesid
 ---
 
 ## 🧠 Conclusión
-*( .)*
+*(Las normas ISO son herramientas cruciales para aumentar la calidad, seguridad y eficiencia en variedades de organizaciones. Al aplicar estándares internacionales, ayuda el comercio, mejora la confianza de los clientes y impulsan prácticas responsables y sustentables. aceptarlas mejora en la competitividad de una empresa e incluso indica compromiso con la excelencia y la mejora constante.)*
 
 ---
 
